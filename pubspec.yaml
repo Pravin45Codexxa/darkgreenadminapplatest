@@ -1,0 +1,71 @@
+name: admin_eshop
+description: A new Flutter project.
+publish_to: 'none' 
+version: 4.0.5+2 
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  http: ^1.0.0
+  shared_preferences: ^2.0.8
+  connectivity: ^3.0.6
+  shimmer: ^3.0.0
+  jaguar_jwt: ^3.0.0
+  flutter_html: ^3.0.0-alpha.6
+  flutter_localizations:
+    sdk: flutter
+  #intl: ^0.17.0
+  url_launcher: ^6.0.12
+  sms_autofill: ^2.2.0
+  firebase_auth: ^4.2.8
+  #country_code_picker: ^2.0.2
+  fl_chart: ^0.62.0
+  flutter_local_notifications: ^14.1.1
+  firebase_messaging: ^14.2.4
+  path_provider: ^2.0.5
+  file_picker: ^5.2.5
+  flutter_downloader: ^1.6.1
+  open_filex: ^4.3.2
+  permission_handler: ^10.2.0
+  flutter_html_to_pdf: ^0.7.0
+  sticky_headers: ^0.3.0+2
+  mime: ^1.0.1
+  html_editor_enhanced: ^2.5.1
+  intl_phone_field: ^3.1.0
+  flutter_launcher_icons: "^0.13.1"
+
+
+
+
+dependency_overrides:
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/images/app_Logo.jpeg"
+  
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - lib/Language/
+
+  fonts:
+    - family: opensans
+      fonts:
+        - asset: assets/font/OpenSans-Regular.ttf
+

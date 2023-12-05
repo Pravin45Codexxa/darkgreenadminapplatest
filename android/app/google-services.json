@@ -1,0 +1,215 @@
+{
+  "project_info": {
+    "project_number": "200111135872",
+    "firebase_url": "https://darkgreen-75667.firebaseio.com",
+    "project_id": "darkgreen-75667",
+    "storage_bucket": "darkgreen-75667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200111135872:android:3c6d93a07455478c2a5a65",
+        "android_client_info": {
+          "package_name": "com.darkgreen.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200111135872-7486m6i3hgfip7f5mcg7j666ugt2ejgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.admin",
+            "certificate_hash": "46682390a9287636fbdaac92ae1986e1e86c4c10"
+          }
+        },
+        {
+          "client_id": "200111135872-ochum7unqqjmdicmb9rd6sf6n1q796uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.admin",
+            "certificate_hash": "5428ceeeefeac4d588969d5858f17de385dfe315"
+          }
+        },
+        {
+          "client_id": "200111135872-d28so830amnvb2qps7pheju9v1r26899.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-bqNjdpCNh3PQ4_bXb35tT6mof1jcwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200111135872-d28so830amnvb2qps7pheju9v1r26899.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200111135872:android:35f87bf35cfe7adc2a5a65",
+        "android_client_info": {
+          "package_name": "com.darkgreen.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200111135872-2oo2nqk191let9fpgivlj5ilrd15fq9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.partner",
+            "certificate_hash": "f8b86fc222b5a059f58df8413f691cb37bf6b6c4"
+          }
+        },
+        {
+          "client_id": "200111135872-cu93a70euctronrco2kd2s8fkm87scp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.partner",
+            "certificate_hash": "367c87daff1c95eef94469af57d5da213eb71b92"
+          }
+        },
+        {
+          "client_id": "200111135872-lje9qlcfai1pmjqkm1oepl9udmcp0pm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.partner",
+            "certificate_hash": "46682390a9287636fbdaac92ae1986e1e86c4c10"
+          }
+        },
+        {
+          "client_id": "200111135872-pd2b5pqfgggmkjaoa992f538rlehd94o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.partner",
+            "certificate_hash": "23c584fc6ac193a6c6051b6fecc1bffdb1d0e476"
+          }
+        },
+        {
+          "client_id": "200111135872-d28so830amnvb2qps7pheju9v1r26899.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-bqNjdpCNh3PQ4_bXb35tT6mof1jcwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200111135872-d28so830amnvb2qps7pheju9v1r26899.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200111135872:android:0da3bec78d058cbe2a5a65",
+        "android_client_info": {
+          "package_name": "com.darkgreen.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200111135872-3q9csqb1lpjl604kfncus97hlrfcrt47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.shop",
+            "certificate_hash": "f8b86fc222b5a059f58df8413f691cb37bf6b6c4"
+          }
+        },
+        {
+          "client_id": "200111135872-r2tg4sibafec5o9n4o2rof7gc2lurlm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.shop",
+            "certificate_hash": "ed905320e8aae6450add63895610a6a36be86d23"
+          }
+        },
+        {
+          "client_id": "200111135872-rhf5jnsrg0eugph81bee3ngouh0lgn8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.shop",
+            "certificate_hash": "23c584fc6ac193a6c6051b6fecc1bffdb1d0e476"
+          }
+        },
+        {
+          "client_id": "200111135872-vf2svbg936mrqe9g8k7ci471l29g5erv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.shop",
+            "certificate_hash": "46682390a9287636fbdaac92ae1986e1e86c4c10"
+          }
+        },
+        {
+          "client_id": "200111135872-d28so830amnvb2qps7pheju9v1r26899.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-bqNjdpCNh3PQ4_bXb35tT6mof1jcwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200111135872-d28so830amnvb2qps7pheju9v1r26899.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200111135872:android:907d9f750412f18a2a5a65",
+        "android_client_info": {
+          "package_name": "com.darkgreen.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200111135872-4jdhj2kn6ggcsli7ppqft6niee3m4sgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkgreen.user",
+            "certificate_hash": "ed905320e8aae6450add63895610a6a36be86d23"
+          }
+        },
+        {
+          "client_id": "200111135872-d28so830amnvb2qps7pheju9v1r26899.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-bqNjdpCNh3PQ4_bXb35tT6mof1jcwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200111135872-d28so830amnvb2qps7pheju9v1r26899.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
